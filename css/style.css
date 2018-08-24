@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+#mainImg {
+  display: block;
+  margin: 0 auto;
+}
+
+h3 {
+  color: red;
+  text-transform: uppercase;
+}
+
+p {
+  text-transform: capitalize;
+}
